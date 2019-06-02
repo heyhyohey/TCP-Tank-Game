@@ -1,0 +1,5 @@
+﻿  tank_game_client.cpp
+c:\users\hyoje\source\repos\tank_game_client\tank_game_client\tank_game_client.cpp(83): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(1830): note: 'inet_addr' 선언을 참조하십시오.
+c:\users\hyoje\source\repos\tank_game_client\tank_game_client\tank_game_client.cpp(99): warning C4101: 'm' :참조되지 않은 지역 변수입니다.
+  tank_game_client.vcxproj -> C:\Users\hyoje\source\repos\tank_game_client\Debug\tank_game_client.exe
